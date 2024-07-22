@@ -51,7 +51,6 @@ check_password_strength(password): This function takes a password as input, eval
 -check_button: Triggers the password strength assessment.
 
 4)Main Event Loop![Screenshot 2024-07-22 120342](https://github.com/user-attachments/assets/fd5b4a27-bc01-4867-8f49-4fb0883eb4f5)
-![Screenshot 2024-07-22 120342](https://github.com/user-attachments/assets/ca38fcbf-f33f-4bfb-992e-5b8f4f1e5169)
 
 
 The Tkinter event loop (root.mainloop()) starts, waiting for user interactions.
